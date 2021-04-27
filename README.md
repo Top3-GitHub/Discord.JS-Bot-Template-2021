@@ -12,5 +12,5 @@ Commands before running:
  npm i fs
  npm i path
 
-How to start?\n
+How to start?
 Type in the terminal "node index.js"
